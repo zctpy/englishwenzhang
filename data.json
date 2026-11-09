@@ -1,0 +1,247 @@
+{
+  "title": "What I Have Lived For",
+  "author": "Bertrand Russell",
+  "dateRange": "2026.11.07 — 2026.11.09",
+  "series": [
+    {
+      "id": "first-seven",
+      "title": "初读七章 · 三种热情",
+      "subtitle": "从背诵记忆到爱、求知与悲悯",
+      "description": "回到女仆咖啡馆的初次共读。知远背诵罗素，伙伴们陪他逐段走进三种支配人生的热情。",
+      "items": [
+        {
+          "number": "EP01",
+          "title": "三种热情：爱、求知与悲悯",
+          "summary": "三种力量如何共同支配一生？",
+          "image": "images/first-seven/01.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP02",
+          "title": "爱之火：狂喜",
+          "summary": "短暂的喜悦为何如此珍贵？",
+          "image": "images/first-seven/02.webp",
+          "width": 1671,
+          "height": 941
+        },
+        {
+          "number": "EP03",
+          "title": "爱之海：孤独与归途",
+          "summary": "爱的第二层意义：照亮彻骨孤独。",
+          "image": "images/first-seven/03.webp",
+          "width": 1670,
+          "height": 941
+        },
+        {
+          "number": "EP04",
+          "title": "爱之镜：微缩天国",
+          "summary": "在爱的结合中，预先看见微小的天国。",
+          "image": "images/first-seven/04.webp",
+          "width": 1670,
+          "height": 941
+        },
+        {
+          "number": "EP05",
+          "title": "星辰、数字与知识",
+          "summary": "追问人心、星辰与数字秩序。",
+          "image": "images/first-seven/05.webp",
+          "width": 1670,
+          "height": 941
+        },
+        {
+          "number": "EP06",
+          "title": "回到人间的善意",
+          "summary": "从高空回到现实，听见受苦者的回声。",
+          "image": "images/first-seven/06.webp",
+          "width": 1670,
+          "height": 941
+        },
+        {
+          "number": "EP07",
+          "title": "值得重演的一生",
+          "summary": "爱、求知与悲悯汇成愿意再活一次的人生。",
+          "image": "images/first-seven/07.webp",
+          "width": 1670,
+          "height": 941
+        }
+      ]
+    },
+    {
+      "id": "star-lan-seven",
+      "title": "星澜的七词星旅",
+      "subtitle": "一词一世界 · 第三季",
+      "description": "七个关键词化作一场星际契约冒险：从召唤、偏航与苦痛，到深海、预示、回响与重逢。",
+      "items": [
+        {
+          "number": "EP00",
+          "title": "七词启程：人物与背景",
+          "summary": "在护士站的星港，七词旅程正式启航。",
+          "image": "images/star-lan-seven/01.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP01",
+          "title": "第一颗星：overwhelmingly",
+          "summary": "强烈到无法忽视的召唤，开启异世界旅程。",
+          "image": "images/star-lan-seven/02.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP02",
+          "title": "偏航星途：wayward",
+          "summary": "偏离航线，也可能成为故事的线索。",
+          "image": "images/star-lan-seven/03.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP03",
+          "title": "古城之痛：anguish",
+          "summary": "在古城灯火中，理解深切的苦痛与陪伴。",
+          "image": "images/star-lan-seven/04.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP04",
+          "title": "深不见底的星之海：unfathomable",
+          "summary": "与星澜携手潜入深海，找到通往彼岸的路。",
+          "image": "images/star-lan-seven/05.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP05",
+          "title": "预示相遇的星图：prefiguring",
+          "summary": "相遇写在星图里，未来仍由两人共同绘制。",
+          "image": "images/star-lan-seven/06.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP06",
+          "title": "让星辰共鸣的誓言：reverberate",
+          "summary": "誓言穿过沉寂星域，让群星重新回响。",
+          "image": "images/star-lan-seven/07.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP07",
+          "title": "重逢的狂喜：ecstasy",
+          "summary": "旅程终点，兑现一路同行的承诺。",
+          "image": "images/star-lan-seven/08.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "回顾",
+          "title": "七词归航·庆功夜",
+          "summary": "回到女仆馆，串联七个关键词。",
+          "image": "images/star-lan-seven/09.webp",
+          "width": 1672,
+          "height": 941
+        }
+      ]
+    },
+    {
+      "id": "full-ten",
+      "title": "全文共读十一章",
+      "subtitle": "在女仆咖啡馆走完整篇人生告白",
+      "description": "从三种热情出发，经过爱、求知与人间苦难，最终抵达“值得活过，也愿意再活一次”。",
+      "items": [
+        {
+          "number": "EP01",
+          "title": "三种热情",
+          "summary": "爱、求知与悲悯，支配着罗素的一生。",
+          "image": "images/full-ten/01.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP02",
+          "title": "被狂风吹向何方",
+          "summary": "三种热情像大风，带他穿过悲苦的海洋。",
+          "image": "images/full-ten/02.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP03",
+          "title": "爱的狂喜",
+          "summary": "短暂的狂喜为何值得倾尽一生？",
+          "image": "images/full-ten/03.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP04",
+          "title": "世界边缘的孤独",
+          "summary": "一个颤抖的意识望向深不可测的深渊。",
+          "image": "images/full-ten/04.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP05",
+          "title": "微缩的天国",
+          "summary": "爱的结合，仿佛预先照见想象中的天国。",
+          "image": "images/full-ten/05.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP06",
+          "title": "星辰为何闪耀",
+          "summary": "求知追问人心、群星与数字秩序。",
+          "image": "images/full-ten/06.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP07",
+          "title": "所求有限，仍愿求知",
+          "summary": "坦然承认所获不多，求知之心仍不熄灭。",
+          "image": "images/full-ten/07.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP08",
+          "title": "大地传来的回声",
+          "summary": "爱与知识将人带向天空，苦难却让他回到大地。",
+          "image": "images/full-ten/08.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP09",
+          "title": "仍想减轻一点苦难",
+          "summary": "不能一次消除苦难，仍可从眼前行动。",
+          "image": "images/full-ten/09.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP10",
+          "title": "我愿再活一次",
+          "summary": "这人生值得活过；若有机会，仍愿重来。",
+          "image": "images/full-ten/10.webp",
+          "width": 1672,
+          "height": 941
+        },
+        {
+          "number": "EP11",
+          "title": "全文共读",
+          "summary": "罗素《What I Have Lived For》完整英文原文，作为全篇共读终章。",
+          "image": "images/full-ten/11.webp",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    }
+  ]
+}
